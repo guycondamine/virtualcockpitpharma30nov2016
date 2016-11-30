@@ -1,0 +1,172 @@
+﻿<project version="2.1" name="Virtual Cockpit - Pharmacovigilance and Clinical Trials nov 2016" ID="748D27A7-BBC5-439D-9BEE-F79D2A164121" addTime="2016-11-08">
+  <params>
+    <pageParam version="4.2" minAllowVersion="4.1"/>
+    <projectParam version="2.1" minAllowVersion="2.0" platform="MtCustom" pageSize="(1920,1080)" backgroundColor="4278203238" fontSize="0" fontFamily="" from="FmLocal"/>
+  </params>
+  <modules>
+    <page name="Home" ID="AC0874C0-3528-4535-AEDD-9CAF18103E24" expanded="True" code="rCymcBo3FZ" thumbCode="PuKAvGyDcR" status="psWhite" isLastOpen="True">
+      <images>
+        <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
+        <image key="29E497818A5585BC4727AC76AA01B019.png"/>
+        <image key="A382FFB7FAEDAF3EBD964A6874DD405E.png"/>
+        <image key="967C1FEC3DE0CF55D33D6A045F8B2B83.png"/>
+        <image key="D25B628AA8BC7286319262580D0B63D4.png"/>
+        <image key="209EE30B689DBB3CCF175A10F3ABAD64.png"/>
+        <image key="488D3D4CC1DC2A546EAD996D30CC5958.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+    <page name="Headquarters" ID="5C679CB9-EAD0-43AC-9196-DA0F549E02D8" expanded="True" code="xp5HZxKOmC" thumbCode="xp5HZxKOmC" status="psWhite">
+      <images>
+        <image key="78EE5FC884B8AE2FBE7E566B2C60ADE9.png"/>
+        <image key="1E7A4D53B5C25B45BDD47EB452C5DF6F.png"/>
+        <image key="9055846731ED4A938454A93BA5C97A07.png"/>
+        <image key="DC50038E903E5C784D7D18F666D677DF.png"/>
+        <image key="AE595C5EA7145A14EEBA8F6956847591.png"/>
+        <image key="377BBA842345CFF17EDCE1062D3FDC52.png"/>
+        <image key="B87AC2AD242162C34D6A2D7EDCD31B6C.png"/>
+        <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
+        <image key="29E497818A5585BC4727AC76AA01B019.png"/>
+        <image key="A382FFB7FAEDAF3EBD964A6874DD405E.png"/>
+        <image key="967C1FEC3DE0CF55D33D6A045F8B2B83.png"/>
+        <image key="D25B628AA8BC7286319262580D0B63D4.png"/>
+        <image key="209EE30B689DBB3CCF175A10F3ABAD64.png"/>
+        <image key="3E0B822E19299CE88ECAFC5F6C9AE620.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+    <page name="Prescriptor" ID="D9439CE8-76BD-43F9-8BB6-C165F1169445" expanded="True" code="WnfvqDFUYN" thumbCode="WnfvqDFUYN" status="psWhite">
+      <images>
+        <image key="1E7A4D53B5C25B45BDD47EB452C5DF6F.png"/>
+        <image key="9055846731ED4A938454A93BA5C97A07.png"/>
+        <image key="DC50038E903E5C784D7D18F666D677DF.png"/>
+        <image key="AE595C5EA7145A14EEBA8F6956847591.png"/>
+        <image key="E1D051095735B805CF4F26A76B6CDEBF.png"/>
+        <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
+        <image key="A382FFB7FAEDAF3EBD964A6874DD405E.png"/>
+        <image key="967C1FEC3DE0CF55D33D6A045F8B2B83.png"/>
+        <image key="D25B628AA8BC7286319262580D0B63D4.png"/>
+        <image key="209EE30B689DBB3CCF175A10F3ABAD64.png"/>
+        <image key="3E0B822E19299CE88ECAFC5F6C9AE620.png"/>
+        <image key="29E497818A5585BC4727AC76AA01B019.png"/>
+        <image key="B87AC2AD242162C34D6A2D7EDCD31B6C.png"/>
+        <image key="331C0C47D6BFF6E47E24D265DF7201F7.png"/>
+        <image key="5301E573DF93DABB57B7F162F4E1FDDB.png"/>
+        <image key="1AD9B8F508B871D7B3701A1AD0559215.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+    <page name="Patient" ID="002ACCE4-A569-4A27-9AF0-E2B16BA2AAE2" expanded="True" code="zGMs8CQt3r" thumbCode="zGMs8CQt3r" status="psWhite">
+      <images>
+        <image key="1E7A4D53B5C25B45BDD47EB452C5DF6F.png"/>
+        <image key="9055846731ED4A938454A93BA5C97A07.png"/>
+        <image key="DC50038E903E5C784D7D18F666D677DF.png"/>
+        <image key="AE595C5EA7145A14EEBA8F6956847591.png"/>
+        <image key="E1D051095735B805CF4F26A76B6CDEBF.png"/>
+        <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
+        <image key="967C1FEC3DE0CF55D33D6A045F8B2B83.png"/>
+        <image key="D25B628AA8BC7286319262580D0B63D4.png"/>
+        <image key="209EE30B689DBB3CCF175A10F3ABAD64.png"/>
+        <image key="3E0B822E19299CE88ECAFC5F6C9AE620.png"/>
+        <image key="29E497818A5585BC4727AC76AA01B019.png"/>
+        <image key="331C0C47D6BFF6E47E24D265DF7201F7.png"/>
+        <image key="A382FFB7FAEDAF3EBD964A6874DD405E.png"/>
+        <image key="0F9B15B340CD772956D4C17436997C65.png"/>
+        <image key="E68010E2B44173734A45A35331F18658.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+    <page name="Competitors" ID="A2A3B14B-95F7-46BC-BA4C-26B0B9F82A98" expanded="True" code="ftYrooGGEx" thumbCode="ftYrooGGEx" status="psWhite">
+      <images>
+        <image key="70A40A8D966B5C44764AA7A7DE9A9850.png"/>
+        <image key="E1A165A6D9591E9F8A88B1CB4E90FC1E.png"/>
+        <image key="377BBA842345CFF17EDCE1062D3FDC52.png"/>
+        <image key="052A816C356F87E975A2AEE883FEE0AD.png"/>
+        <image key="6D562CAC3C51D3BE0D59D04E3C3820AC.png"/>
+        <image key="1CF0E0CF8D20AFFB4A83E26889EDAA97.png"/>
+        <image key="AAE5D16A242429FB1A8AAE353F9EEDC1.png"/>
+        <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
+        <image key="29E497818A5585BC4727AC76AA01B019.png"/>
+        <image key="A382FFB7FAEDAF3EBD964A6874DD405E.png"/>
+        <image key="967C1FEC3DE0CF55D33D6A045F8B2B83.png"/>
+        <image key="D25B628AA8BC7286319262580D0B63D4.png"/>
+        <image key="209EE30B689DBB3CCF175A10F3ABAD64.png"/>
+        <image key="3E0B822E19299CE88ECAFC5F6C9AE620.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+    <page name="Clinical trials" ID="A6914CCA-0B63-4223-989A-1AB0C48E6A6C" expanded="True" code="lYJqHoNY44" thumbCode="2Im5DJfM2S" status="psWhite">
+      <images>
+        <image key="377BBA842345CFF17EDCE1062D3FDC52.png"/>
+        <image key="AC343E8760F31AB0C31AE7A9856D146D.png"/>
+        <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
+        <image key="29E497818A5585BC4727AC76AA01B019.png"/>
+        <image key="A382FFB7FAEDAF3EBD964A6874DD405E.png"/>
+        <image key="D25B628AA8BC7286319262580D0B63D4.png"/>
+        <image key="209EE30B689DBB3CCF175A10F3ABAD64.png"/>
+        <image key="3E0B822E19299CE88ECAFC5F6C9AE620.png"/>
+        <image key="967C1FEC3DE0CF55D33D6A045F8B2B83.png"/>
+        <image key="370661445616E7879F63387911E20F2D.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+        <image key="16343156670991DD23D8F3186662970F.png"/>
+        <image key="E42B4F88E03575BCDC1EE0FA2C7FC6AC.png"/>
+        <image key="59CA255D5345A0F0595F6AA847C2F5CE.png"/>
+        <image key="2B587E235C0EA64AE955245BC704C790.png"/>
+      </images>
+    </page>
+    <page name="Find a drug" ID="2C8575B7-F217-4BEA-A162-945C8AE35668" expanded="True" code="HWVAZf2y9F" thumbCode="HWVAZf2y9F" status="psWhite">
+      <images>
+        <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
+        <image key="29E497818A5585BC4727AC76AA01B019.png"/>
+        <image key="A382FFB7FAEDAF3EBD964A6874DD405E.png"/>
+        <image key="D25B628AA8BC7286319262580D0B63D4.png"/>
+        <image key="209EE30B689DBB3CCF175A10F3ABAD64.png"/>
+        <image key="3E0B822E19299CE88ECAFC5F6C9AE620.png"/>
+        <image key="967C1FEC3DE0CF55D33D6A045F8B2B83.png"/>
+        <image key="9FF2E9E623343B880D6A33F38DBF3AA7.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+      </images>
+    </page>
+  </modules>
+  <masters/>
+  <images>
+    <image key="78EE5FC884B8AE2FBE7E566B2C60ADE9.png"/>
+    <image key="1E7A4D53B5C25B45BDD47EB452C5DF6F.png"/>
+    <image key="9055846731ED4A938454A93BA5C97A07.png"/>
+    <image key="DC50038E903E5C784D7D18F666D677DF.png"/>
+    <image key="AE595C5EA7145A14EEBA8F6956847591.png"/>
+    <image key="377BBA842345CFF17EDCE1062D3FDC52.png"/>
+    <image key="B87AC2AD242162C34D6A2D7EDCD31B6C.png"/>
+    <image key="70A40A8D966B5C44764AA7A7DE9A9850.png"/>
+    <image key="E1A165A6D9591E9F8A88B1CB4E90FC1E.png"/>
+    <image key="052A816C356F87E975A2AEE883FEE0AD.png"/>
+    <image key="6D562CAC3C51D3BE0D59D04E3C3820AC.png"/>
+    <image key="E1D051095735B805CF4F26A76B6CDEBF.png"/>
+    <image key="1CF0E0CF8D20AFFB4A83E26889EDAA97.png"/>
+    <image key="AAE5D16A242429FB1A8AAE353F9EEDC1.png"/>
+    <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
+    <image key="29E497818A5585BC4727AC76AA01B019.png"/>
+    <image key="A382FFB7FAEDAF3EBD964A6874DD405E.png"/>
+    <image key="967C1FEC3DE0CF55D33D6A045F8B2B83.png"/>
+    <image key="D25B628AA8BC7286319262580D0B63D4.png"/>
+    <image key="209EE30B689DBB3CCF175A10F3ABAD64.png"/>
+    <image key="3E0B822E19299CE88ECAFC5F6C9AE620.png"/>
+    <image key="488D3D4CC1DC2A546EAD996D30CC5958.png"/>
+    <image key="331C0C47D6BFF6E47E24D265DF7201F7.png"/>
+    <image key="5301E573DF93DABB57B7F162F4E1FDDB.png"/>
+    <image key="1AD9B8F508B871D7B3701A1AD0559215.png"/>
+    <image key="0F9B15B340CD772956D4C17436997C65.png"/>
+    <image key="E68010E2B44173734A45A35331F18658.png"/>
+    <image key="9FF2E9E623343B880D6A33F38DBF3AA7.png"/>
+    <image key="17CBDB88332FC89157A313844539E764.png"/>
+    <image key="AC343E8760F31AB0C31AE7A9856D146D.png"/>
+    <image key="370661445616E7879F63387911E20F2D.png"/>
+    <image key="16343156670991DD23D8F3186662970F.png"/>
+    <image key="E42B4F88E03575BCDC1EE0FA2C7FC6AC.png"/>
+    <image key="59CA255D5345A0F0595F6AA847C2F5CE.png"/>
+    <image key="2B587E235C0EA64AE955245BC704C790.png"/>
+  </images>
+  <others>
+    <favoriteColors/>
+  </others>
+</project>
