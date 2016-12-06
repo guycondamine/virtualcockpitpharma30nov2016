@@ -488,7 +488,7 @@
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="67AC5348-14C8-4A47-B589-A5734DAC1EED" controlTypeID="Label" isShow="True" caption="Label" x="1015" y="251" w="207" h="54" measuredW="0" measuredH="0" zOrder="14" locked="False" sizeLocked="False">
+    <control controlID="67AC5348-14C8-4A47-B589-A5734DAC1EED" controlTypeID="Label" isShow="True" caption="Label" x="1015" y="251" w="129" h="54" measuredW="0" measuredH="0" zOrder="14" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="0" borderVisible="True" borderColor="4284900966" isAutoSize="True" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -498,17 +498,17 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="D9439CE8-76BD-43F9-8BB6-C165F1169445" linkType="ltPageLink" isApplyIncludePage="False" title="Prescriptor">
-            <area shape="0" alt="" ID="{8A9DD5DA-A5D3-4567-903A-5D9699DAA669}" coords="(0,0,207,54)"/>
+            <area shape="0" alt="" ID="{8A9DD5DA-A5D3-4567-903A-5D9699DAA669}" coords="(0,0,129,54)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{FA11F6E1-C27C-434A-B58B-D6B8512DABA0}" coords="(0,0,207,54)"/>
+            <area shape="0" alt="" ID="{FA11F6E1-C27C-434A-B58B-D6B8512DABA0}" coords="(0,0,129,54)"/>
             <events title=""/>
           </entry>
         </interactiveData>
         <textSet textColor="4294967295" textSize="40" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" lineSpacing="53" textStyles="[fsBold]" useDefaultTextSize="False">
-          <text>Prescriptor</text>
+          <text>Doctor</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4282501083</selectedColor>

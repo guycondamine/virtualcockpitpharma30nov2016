@@ -4,7 +4,7 @@
     <projectParam version="2.1" minAllowVersion="2.0" platform="MtCustom" pageSize="(1920,1080)" backgroundColor="4278203238" fontSize="0" fontFamily="" from="FmLocal"/>
   </params>
   <modules>
-    <page name="Home" ID="AC0874C0-3528-4535-AEDD-9CAF18103E24" expanded="True" code="rCymcBo3FZ" thumbCode="PuKAvGyDcR" status="psWhite" isLastOpen="True">
+    <page name="Home" ID="AC0874C0-3528-4535-AEDD-9CAF18103E24" expanded="True" code="cxXydu9hsu" thumbCode="cxXydu9hsu" status="psWhite" isLastOpen="True">
       <images>
         <image key="1599A12790B3C598FB966CDB7E150DD0.png"/>
         <image key="29E497818A5585BC4727AC76AA01B019.png"/>
@@ -35,7 +35,7 @@
         <image key="17CBDB88332FC89157A313844539E764.png"/>
       </images>
     </page>
-    <page name="Prescriptor" ID="D9439CE8-76BD-43F9-8BB6-C165F1169445" expanded="True" code="WnfvqDFUYN" thumbCode="WnfvqDFUYN" status="psWhite">
+    <page name="Doctor" ID="D9439CE8-76BD-43F9-8BB6-C165F1169445" expanded="True" code="coLW6tpyz3" thumbCode="WnfvqDFUYN" status="psWhite">
       <images>
         <image key="1E7A4D53B5C25B45BDD47EB452C5DF6F.png"/>
         <image key="9055846731ED4A938454A93BA5C97A07.png"/>
@@ -95,7 +95,7 @@
         <image key="17CBDB88332FC89157A313844539E764.png"/>
       </images>
     </page>
-    <page name="Clinical trials" ID="A6914CCA-0B63-4223-989A-1AB0C48E6A6C" expanded="True" code="lYJqHoNY44" thumbCode="2Im5DJfM2S" status="psWhite">
+    <page name="Clinical trials" ID="A6914CCA-0B63-4223-989A-1AB0C48E6A6C" expanded="True" code="lYJqHoNY44" thumbCode="lYJqHoNY44" status="psWhite">
       <images>
         <image key="377BBA842345CFF17EDCE1062D3FDC52.png"/>
         <image key="AC343E8760F31AB0C31AE7A9856D146D.png"/>
